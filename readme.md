@@ -1,6 +1,6 @@
 # Resources and Learnings
 
-### Resources
+### Resources 2022
 
 - Basics
   1. <https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP> (Namaste Javascript)
@@ -11,6 +11,9 @@
   1. <https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa&ab_channel=Codevolution>
   2. <https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy&ab_channel=Codevolution>
   3. <https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3>
+- Async Javascript
+ <https://www.youtube.com/watch?v=exBgWAIeIeg&ab_channel=Codevolution>
+ <https://www.youtube.com/watch?v=vn3tm0quoqE> (Quick Overview)
 
 ## Learnings
 
