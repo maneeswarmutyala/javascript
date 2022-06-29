@@ -38,3 +38,14 @@
   - CartesianProduct O(mn)
   - ClimbingStairCase O(n)
   - TowerOfHanoi O(2^n)
+
+### Complexity (Horrible to Excellent)
+
+- O(n!) - Horrible
+
+- O(2^n) - Horrible
+- O(n^2)- Horrible
+- O(nlogn) - Bad
+- O(n) - Fair
+- O(logn) - Good
+- O(1) - Excellent
