@@ -4,7 +4,7 @@
 javascript
 
 4. Implement the Array.map method on the Array
-Prototype
+Prototype https://blog.bitsrc.io/lets-implement-our-own-array-map-sort-methods-e89c9d5e2dc8
 
 5. Implement the Array.filter method on the Array
 Prototype
